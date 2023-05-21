@@ -3,7 +3,7 @@ numpy
 Flask
 matplotlib
 seaborn
-
+ipykernel
 
 
 -e .
